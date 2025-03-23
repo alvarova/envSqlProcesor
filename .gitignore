@@ -1,0 +1,9 @@
+# Archivos excluidos
+.env*
+registro.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
